@@ -2,7 +2,7 @@ package Weeks10and11;
 
 import java.util.ArrayList;
 
-public class Main {
+public class Week10and11 {
     public static void main(String[] args) {
 //        for (int i = 0; i < 10; ++i) {
 //            int x = CS2004.UI(-1, 1);
