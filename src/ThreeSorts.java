@@ -1,5 +1,5 @@
 //Java Code for Laboratory 6 – Week 6 Sorting Algorithms
-//Brunel University London, Computer Science Module CS2004, 2020-2021
+//Brunel University London, Computer Science Module Weeks10and11.CS2004, 2020-2021
 
 import java.util.*;
 
